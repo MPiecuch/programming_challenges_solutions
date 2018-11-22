@@ -1,4 +1,4 @@
-# Programming challenges repository #
+# Programming Challenges #
 
 This repository contains solutions to problems contained in "Programming Challenges: the programming contest training manual" by Steven S. Skiena and Miguel A. Revilla.
 
