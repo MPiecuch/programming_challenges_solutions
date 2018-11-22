@@ -1,3 +1,9 @@
+/*
+ * Author: Mateusz Piecuch
+ * Problem: The 3n+1 Problem
+ * UVA ID: 100
+ */
+
 #include <cstdio>
 #include <vector>
 #include <map>
