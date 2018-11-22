@@ -8,3 +8,4 @@ So far you can find solutions to:
 
 * Getting started
   * The 3n+1 Problem - prob_100.cpp
+  * Minesweeper
