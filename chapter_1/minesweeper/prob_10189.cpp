@@ -2,6 +2,7 @@
  * Author: Mateusz Piecuch
  * Problem: Minesweeper
  * UVA ID: 10189
+ * Date: 22.11.2018
  */
 
 #include <cstdio>

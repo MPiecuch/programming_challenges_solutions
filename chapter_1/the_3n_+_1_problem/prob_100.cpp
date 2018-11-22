@@ -2,6 +2,7 @@
  * Author: Mateusz Piecuch
  * Problem: The 3n+1 Problem
  * UVA ID: 100
+ * Date: 22.11.2018
  */
 
 #include <cstdio>
