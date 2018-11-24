@@ -8,4 +8,6 @@ So far you can find solutions to:
 
 * Getting started
   * The 3n+1 Problem - prob_100.cpp
-  * Minesweeper
+  * Minesweeper - prob_10189.cpp
+* Data structures
+  * Jolly Jumpers - prob_10038.cpp
